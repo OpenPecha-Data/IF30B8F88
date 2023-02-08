@@ -1,0 +1,16 @@
+id: IF30B8F88
+default_language: sa
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 15:02:37.378438
+last_modified: 2023-02-08 15:02:37.378525
+source_metadata:
+  title: Dīrghāgama, sūtras no. 35-41
+  language: sa
+bases:
+  1E45:
+    base_file: 1E45.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''

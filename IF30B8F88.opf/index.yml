@@ -1,0 +1,11 @@
+id: 156813a8910e407697e29a503eb431fe
+annotation_type: index
+revision: '00001'
+annotations:
+  766917949cba427dbf04c98f86a469d8:
+    base: 1E45.txt
+    Chapters:
+    - title: ''
+      span:
+        start: 0
+        end: 207
